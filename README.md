@@ -2,4 +2,4 @@
 shradha khapra
 
 # College
-Apna college
+Apna college.
