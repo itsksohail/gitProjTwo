@@ -1,3 +1,11 @@
 h1{
     color: red;
 }
+
+h1{
+    text-align: right;
+}
+
+h1{
+    justify-content: flex-end;
+}
